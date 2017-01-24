@@ -5,8 +5,8 @@
 - [ ] draft teams
 - [ ] simulate players and other teams
 - [ ] simulate season 
-	*simulate based on player stats 
-	*simulate commentator to call out plays 
+	* simulate based on player stats 
+	* simulate commentator to call out plays 
 - [ ] manage team 
  - [ ] trade 
 - [ ] FA 
